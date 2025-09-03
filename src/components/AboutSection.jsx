@@ -31,7 +31,7 @@ const AboutSection = () => {
                     animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
                     transition={{ duration: 0.8, delay: 0.2 }}
                   >
-                    I'm a dedicated Full Stack and AI/ML developer with over 5 years of experience 
+                    I'm a dedicated Full Stack and AI/ML developer with over 1 year of experience 
                     crafting digital solutions that make a real impact. My journey spans from responsive 
                     web applications to intelligent machine learning systems.
                   </motion.p>
